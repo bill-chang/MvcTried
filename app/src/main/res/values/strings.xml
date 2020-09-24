@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MvcTried</string>
+    <string name="things1">Things 1</string>
+    <string name="things2">Things 2</string>
+    <string name="things3">Things 3</string>
+    <string name="count">Count:0</string>
+
+</resources>
